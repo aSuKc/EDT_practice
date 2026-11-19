@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0bf66989-e1e5-4c21-9139-f2ee37dd48ae">
+  <producedTypes>
+    <managerType typeId="2cb939b4-43a9-4f37-8413-40e9dd8fc6a2" valueTypeId="e70c44c7-38bc-4699-a841-57bfbac5c268"/>
+    <valueManagerType typeId="fd79267e-981a-4c0d-82e5-ce00bb17287f" valueTypeId="ac35e361-ce96-4ffa-810f-e9e69fd02d0d"/>
+    <valueKeyType typeId="fa8ddc95-baf9-4118-97d0-44b564be7001" valueTypeId="d641882a-d00b-4b62-8bba-9cbcd35a6fd5"/>
+  </producedTypes>
+  <name>РЦ_МОЛ_ОрдерныйСклад</name>
+  <synonym>
+    <key>ru</key>
+    <value>МОЛ для ордерных складов</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Пользователи</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
